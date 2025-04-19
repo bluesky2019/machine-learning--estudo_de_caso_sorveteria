@@ -51,6 +51,8 @@ R² (Coeficiente de Determinação) – quanto mais próximo de 1, melhor.
 
 Mede o quanto o modelo explica da variabilidade dos dados.
 
+
+
 ** Exemplo de saída do código:
 python
 Copiar
