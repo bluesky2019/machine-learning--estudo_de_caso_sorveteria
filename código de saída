@@ -1,0 +1,20 @@
+A saída da execução do código de machine learning foi este: 
+
+
+2025/04/18 21:20:22 WARNING mlflow.models.model: Model logged without a signature and input example. Please set `input_example` parameter when logging the model to auto infer the model signature.
+RMSE: 8.36
+R²: 0.42
+MLflow run URL: file:///content/mlruns/0/bcf35310f6214f3593f1415c2f8f73b8/artifacts
+
+📊 Previsões para os últimos 10 dias:
+         data  vendas_reais  vendas_previstas
+90 2023-04-01    121.991014            130.82
+91 2023-04-02    148.093663            142.03
+92 2023-04-03    116.610141            118.89
+93 2023-04-04    107.627680            123.30
+94 2023-04-05    120.850187            121.71
+95 2023-04-06    113.853174            112.67
+96 2023-04-07    120.603230            129.70
+97 2023-04-08    130.453080            133.06
+98 2023-04-09    125.658789            128.85
+99 2023-04-10    110.051490            125.29
