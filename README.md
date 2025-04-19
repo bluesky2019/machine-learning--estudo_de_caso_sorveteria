@@ -40,6 +40,31 @@ print(sorvetes_df.head())
 sorvetes_df.to_csv('sorvetes.csv', index=False)
 
 
+##### Em relação ao código de saída:
+
+ Métricas usadas para regressão:
+RMSE (Root Mean Squared Error) – quanto menor, melhor.
+
+Mede o erro médio entre os valores reais e previstos.
+
+R² (Coeficiente de Determinação) – quanto mais próximo de 1, melhor.
+
+Mede o quanto o modelo explica da variabilidade dos dados.
+
+💡 Exemplo de saída do código:
+python
+Copiar
+Editar
+RMSE: 9.32
+R²: 0.88
+Isso significa:
+RMSE = 9.32 → Em média, o modelo erra a previsão de vendas em torno de 9 unidades.
+
+R² = 0.88 → O modelo explica 88% da variabilidade nas vendas de sorvete com base na temperatura, mês, dia da semana e fim de semana.
+
+#####
+
+
 
 
 
