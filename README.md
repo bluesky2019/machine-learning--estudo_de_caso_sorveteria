@@ -53,7 +53,7 @@ Mede o quanto o modelo explica da variabilidade dos dados.
 
 
 
-** Exemplo de saída do código:
+** Exemplo de saída do código de Machine learning:
 python
 Copiar
 Editar
