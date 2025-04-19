@@ -1,4 +1,4 @@
-# machine-learning--estudo_de_caso_sorveteria
+# Machine-learning--estudo_de_caso_sorveteria
 
 Cenário
 Imagine que você é proprietário de uma sorveteria chamada Gelato Mágico, localizada em uma cidade litorânea. Você percebe que a quantidade de sorvetes vendidos diariamente tem uma forte correlação com a temperatura ambiente. No entanto, sem um planejamento adequado, você pode acabar produzindo mais sorvetes do que o necessário e ter prejuízos com desperdícios ou, ao contrário, produzir menos e perder vendas.
